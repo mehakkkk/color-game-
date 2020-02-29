@@ -1,0 +1,55 @@
+body{
+    background-color: #232323;
+}
+.square
+{
+    margin:1.66%;
+    padding-bottom:30%;
+    float: left;
+    background-color: purple;
+    width:30%;
+    border-radius: 40px;
+    
+}
+#easy{
+    color:white;
+}
+#hard{
+    color: white;
+}
+#container 
+{
+    max-width: 40%;
+    margin:60px auto;
+}
+h1{
+    color: white;
+    background-color: steelblue;
+    
+    height: 150px;
+   
+    
+}
+#stripe
+{
+    background:white;
+    text-align: center;
+    height: 30px;
+    margin-right:30px;
+    
+    
+}
+#hard
+{
+    color: black;
+    
+}
+#easy
+{
+    color: black;
+    
+}
+.selected
+{
+    background:blue;
+}
